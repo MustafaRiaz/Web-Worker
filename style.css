@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#container {
+    margin-top: 100px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#calculateButton {
+    background-color: #007bff;
+    color: #fff;
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+}
